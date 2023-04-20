@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @LemuelThomas
-- 👀 I’m interested in ... Cloud Computing
-- 💞️ I’m looking to collaborate on ... AWS SysOps Administration, AWS Cloud Engineer, AWS Cloud Support Engineer
 - 📫 How to reach me ... +1 706-983-3324, lemuel.thomas3@gmail.com
 
 <!---
